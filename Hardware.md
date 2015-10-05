@@ -27,18 +27,18 @@ This shows the table setup.
 
 This shows the front surfaced mirror, the IR camera and projector configuration.
 
-![http://project-surface.googlecode.com/svn/wiki/mirror.jpg](http://project-surface.googlecode.com/svn/wiki/mirror.jpg)
+![https://github.com/meavydev/project-surface/blob/wiki/mirror.jpg](https://github.com/meavydev/project-surface/blob/wiki/mirror.jpg)
 
 
 # CCV #
 
 This shows the Macbook running CCV 1.4
 
-![http://project-surface.googlecode.com/svn/wiki/macbook.jpg](http://project-surface.googlecode.com/svn/wiki/macbook.jpg)
+![https://github.com/meavydev/project-surface/blob/wiki/macbook.jpg](https://github.com/meavydev/project-surface/blob/wiki/macbook.jpg)
 
 
 # Active #
 
 This shows the table in action. Note the IR illuminators show in the camera, although they are not visible to the human eye.
 
-![http://project-surface.googlecode.com/svn/wiki/active.jpg](http://project-surface.googlecode.com/svn/wiki/active.jpg)
+![https://github.com/meavydev/project-surface/blob/wiki/active.jpg](https://github.com/meavydev/project-surface/blob/wiki/active.jpg)
