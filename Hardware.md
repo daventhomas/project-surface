@@ -20,7 +20,7 @@ Here are the pictures of the hardware in action.
 
 This shows the table setup.
 
-![http://project-surface.googlecode.com/svn/wiki/overview.jpg](http://project-surface.googlecode.com/svn/wiki/overview.jpg)
+![https://github.com/meavydev/project-surface/blob/wiki/overview.jpg](https://github.com/meavydev/project-surface/blob/wiki/overview.jpg)
 
 
 # Front Surfaced Mirror / Projector / IR Camera #
