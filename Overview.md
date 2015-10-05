@@ -7,7 +7,7 @@ So thanks to [Citrix](http://www.citrix.com) for allowing me to do blue sky rese
 
 Hopefully any one following these instructions can build a relatively cheap touch surface and use it with a standard Windows 8 PC with no extra drivers.
 
-![http://project-surface.googlecode.com/svn/wiki/project-surface.png](http://project-surface.googlecode.com/svn/wiki/project-surface.png)
+![https://github.com/meavydev/project-surface/blob/wiki/project-surface.png](https://github.com/meavydev/project-surface/blob/wiki/project-surface.png)
 
 # Details #
 
